@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * Hi.
+ */
 public class WeightedRandomObjectNumberGenerator {
 
     private double[] totals;
